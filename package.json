@@ -1,5 +1,5 @@
 {
-  "name": "handshake-js",
+  "name": "handshakejs-browser",
   "version": "0.0.1",
   "author": "scottmotte",
   "devDependencies": {
@@ -16,6 +16,16 @@
   },
   "scripts": {
     "test": "grunt test --verbose"
-  }
+  },
+  "description": "![](https://rawgithub.com/handshakejs/handshakejs-script/master/handshakejs.svg)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/handshakejs/handshakejs-script.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handshakejs/handshakejs-script/issues"
+  },
+  "homepage": "https://github.com/handshakejs/handshakejs-script"
 }
-
